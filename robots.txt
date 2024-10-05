@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://huweyatuharo.pages.dev/sitemap.xml
